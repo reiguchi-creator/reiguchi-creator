@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I'm Rei, and I'm a Data Analyst experienced in the outsourcing/offshoring industry, skilled in **SQL, Power BI, Excel, Google Sheets, and data quality assessment**.
+Focused on **turning raw data into actionable insights, building dashboards, and supporting data-driven decisions** to drive business impact and continuous growth.
+
 <!--
 **reiguchi-creator/reiguchi-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
