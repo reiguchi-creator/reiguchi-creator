@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Rei, and I'm a Data Analyst experienced in the outsourcing/offshoring industry, skilled in **SQL, Power BI, Excel, Google Sheets, and data quality assessment**.
+I'm Rei, and I'm a Data Analyst experienced in the outsourcing/offshoring industry, skilled in **SQL, Power BI, Tableau, Excel, Google Sheets, and data quality assessment**.
 Focused on **turning raw data into actionable insights, building dashboards, and supporting data-driven decisions** to drive business impact and continuous growth.
 
 <!--
